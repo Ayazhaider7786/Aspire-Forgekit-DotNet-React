@@ -1,4 +1,4 @@
-# MyApp
+# Aspire-Forgekit-DotNet-React 
 
 A full-stack starter: ASP.NET Core Web API + React (Vite) frontend, orchestrated
 locally with .NET Aspire. Ships with JWT authentication, role-based authorization,
